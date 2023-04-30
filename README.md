@@ -1,4 +1,4 @@
-# wiremock-testing jdk17,eclipse(or ohter editor),insomnia are required
+# wiremock-testing jdk17,eclipse(or other editor),insomnia are required
 
 ##Wiremock: will be helpful to see how apis behave when dependent,
 API response is delayed
@@ -11,7 +11,7 @@ API hans many positive and negative scenarios, all of these of dependent system 
 To test a system, all dependent systems can’t be set up or handled if there are many dependent systems with different use cases. Easyway is to mock them for integration testing. 
 
 ## Insomnia Setup:
-There are systems are there, 
+These are systems which are there, 
 
 1, System to be tested and 2, Dependent system of System to be tested
 
