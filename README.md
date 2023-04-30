@@ -1,4 +1,4 @@
-# wiremock-testing jdk17 is required
+# wiremock-testing jdk17,eclipse(or ohter editor),insomnia are required
 
 ##Wiremock: will be helpful to see how apis behave when dependent,
 API response is delayed
